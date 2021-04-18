@@ -1,0 +1,1 @@
+<ul class="menusm"><?php		echo $strMenu;?></ul>
